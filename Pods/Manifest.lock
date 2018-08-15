@@ -1,0 +1,22 @@
+PODS:
+  - ReactiveCocoa (2.5):
+    - ReactiveCocoa/UI (= 2.5)
+  - ReactiveCocoa/Core (2.5):
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/no-arc (2.5)
+  - ReactiveCocoa/UI (2.5):
+    - ReactiveCocoa/Core
+
+DEPENDENCIES:
+  - ReactiveCocoa (= 2.5)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - ReactiveCocoa
+
+SPEC CHECKSUMS:
+  ReactiveCocoa: e2db045570aa97c695e7aa97c2bcab222ae51f4a
+
+PODFILE CHECKSUM: 1f62913c18365b53310cc2d3b42e67c1fa8624b1
+
+COCOAPODS: 1.5.3
